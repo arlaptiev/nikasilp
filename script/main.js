@@ -29,6 +29,9 @@ let catSlopeY = 0;
 
 const catchTheCatAnimation = (tl) => {
 
+  // var bulbs = document.querySelector('.bulbs');
+  //   bulbs.style.display = 'block';
+
   tl
     .to(".container", 0.1, {
       visibility: "visible"

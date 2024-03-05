@@ -486,6 +486,10 @@ button{
 	background-size: 50px 50px;
 }
 
+.bulbs {
+  text-wrap: nowrap;
+}
+
 .bulb-holder {
 	height: 70px;
 }
